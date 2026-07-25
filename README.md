@@ -16,18 +16,9 @@
 </p>
 
 ## About
-
 I'm a systems focused security enthusiast/student interested in understanding programs at
 the machine level (REALLY low-level). My current work centres on C, Linux, x86-64 assembly, GDB,
 program analysis, and the foundations required for vulnerability research.
-
-I prefer learning by building, breaking down, and debugging real programs in
-controlled and legal environments set up by me or other premade CTFs.
-
-## Current focus
-- Building strong C foundation.
-- Connecting C source code to its generated x86-64 assembly, (Arcitechture 1001)
-- Recording useful notes and write-ups instead of collecting surface-level certificates
 
 ## Background
 - Built Python automation and Discord moderation/security tooling for fun
@@ -37,9 +28,10 @@ controlled and legal environments set up by me or other premade CTFs.
 - Completed **pwn.college: Computing 101**
 - Currently solidifying my knowledge via learning **C** (Also please read below of what my plans forward are ^_^)
   
+
 ## Tools and technologies
 ```text
-Languages        C · Python · x86-64 Assembly · Bash
+Languages        C / Python / x86-64 Assembly / Bash
 Systems          Linux / Windows / WSL
 Studying         Reverse engineering / Binary exploitation / Solidifying Programming
 ```
@@ -55,5 +47,5 @@ This is a document of my journey, I will be constantly updating it throughout my
 ---
 
 <p align="center">
-  <sub>Hope you like my page!.</sub>
+  <sub>Hope you like my page!</sub>
 </p>
