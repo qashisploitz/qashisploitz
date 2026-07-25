@@ -6,7 +6,7 @@
 
 <p align="center">
   Low-level interests always devour my mind with immense grief due to me yearning to
-  learn about it, & I finally did this year! Read more about me below ^^.
+  learn about it, and I finally did this year! ^^.
 </p>
 
 <p align="center">
