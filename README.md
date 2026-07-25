@@ -40,6 +40,7 @@ Studying         Basics of low-level systems / Reverse engineering / Binary expl
 
 ### Solidifying foundation & mastering low-level systems
 I plan on solidifying my knowledge by following this order before I touch any exploitation;
+
 Finish **Beej's C Guide** ---> Take the **Architecture 1001: OpenSecurityTraining2** ---> Read **CS:APP** ---> Not planned
 
 ---
