@@ -1,5 +1,3 @@
-<h1 align="center">Qashi Sploitz</h1>
-
 <p align="center">
   <strong>Low-level Systems Enthusiast</strong>
 </p>
