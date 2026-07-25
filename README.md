@@ -29,11 +29,11 @@ program analysis, and the foundations required for vulnerability research.
 - Currently solidifying my knowledge via learning **C** (Also please read below of what my plans forward are ^_^)
   
 
-## Tools and technologies
+## My Lab
 ```text
 Languages        C / Python / x86-64 Assembly / Bash
-Systems          Linux / Windows / WSL
-Studying         Reverse engineering / Binary exploitation / Solidifying Programming
+Systems          I previously used a few distros in linux (Mint, Fedora, Ubuntu, Gentoo, Arch & Qubes), but I stick to Windows + WSL2 Ubuntu for convenience!
+Studying         Basics of low-level systems / Reverse engineering / Binary exploitation / Solidifying Programming
 ```
 
 ## My ambitions & Plans
@@ -42,10 +42,8 @@ Studying         Reverse engineering / Binary exploitation / Solidifying Program
 I plan on solidifying my knowledge by following this order before I touch any exploitation;
 Finish **Beej's C Guide** ---> Take the **Architecture 1001: OpenSecurityTraining2** ---> Read **CS:APP** ---> Not planned
 
-This is a document of my journey, I will be constantly updating it throughout my quest of gaining knowledge in something that GENUINLEY interests me 0_0.
-
 ---
 
 <p align="center">
-  <sub>Hope you like my page!</sub>
+  <sub>This is a document of my journey, I will be constantly updating it through-out my quest of gaining knowledge in something that really interests me!</sub>
 </p>
