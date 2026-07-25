@@ -27,10 +27,8 @@ I prefer learning by building, breaking down, and debugging real programs in
 controlled and legal environments set up by me or other premade CTFs.
 
 ## Current focus
-- Building strong C foundations, as kernels & programs still use C
+- Building strong C foundation.
 - Connecting C source code to its generated x86-64 assembly, (Arcitechture 1001)
-- Debugging programs with GDB and inspecting binaries with standard Linux tools
-- Developing toward reverse engineering, fuzzing, and binary exploitation
 - Recording useful notes and write-ups instead of collecting surface-level certificates
 
 ## Background
@@ -52,12 +50,12 @@ Studying         Reverse engineering / Binary exploitation / Solidifying Program
 
 ### Solidifying foundation & mastering low-level systems
 I plan on solidifying my knowledge by following this order before I touch any exploitation;
-Finish **Beej's C Guide** ---> Take the **Architecture 1001: OpenSecurityTraining2** ---> Read **CS:APP" ---> Not planned
+Finish **Beej's C Guide** ---> Take the **Architecture 1001: OpenSecurityTraining2** ---> Read **CS:APP** ---> Not planned
 
 This is a document of my journey, I will be constantly updating it throughout my quest of gaining knowledge in something that GENUINLEY interests me 0_0.
 
 ---
 
 <p align="center">
-  <sub>Building an understanding of systems from the instruction level upward.</sub>
+  <sub>Hope you like my page!.</sub>
 </p>
