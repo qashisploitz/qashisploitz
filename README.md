@@ -1,7 +1,7 @@
 <h1 align="center">Qashi Sploitz</h1>
 
 <p align="center">
-  <strong>Low-level computing / Vulnerability research / Software security</strong>
+  <strong>Low-level Systems Enthusiast</strong>
 </p>
 
 <p align="center">
