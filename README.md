@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Low-level Systems Enthusiast</strong>
+  <strong>Low-level Enthusiast</strong>
 </p>
 
 <p align="center">
